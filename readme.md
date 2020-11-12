@@ -1,0 +1,1 @@
+Local OpenCV camera MJPEG video streamer with Flask.
